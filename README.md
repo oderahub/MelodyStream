@@ -125,7 +125,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Acknowledgments
 
-- **xAI for Grok**, which assisted in development and debugging.
+- **xAI for Grok**, which assisted in development and debugging....
 - **Lucide React** for icons.
 - **Tailwind CSS** for styling.
 
